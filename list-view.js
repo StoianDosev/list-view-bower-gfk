@@ -2,7 +2,7 @@
 // Project:   Ember ListView
 // Copyright: ©2012-2013 Erik Bryn, Yapp Inc., and contributors.
 // License:   Licensed under MIT license
-// Version:   0.0.5
+// Version:   0.0.5 
 // ==========================================================================
 
 (function(global){
